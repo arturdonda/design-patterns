@@ -9,6 +9,6 @@ export class HouseDirector {
 	}
 
 	buildComplexHouse(): House {
-		return this.builder.setBedrooms(4).setBathrooms(4).setWindows(8).setGarage(true).setPool(true).setGarden(true).build();
+		return this.builder.setBedrooms(4).setBathrooms(4).setWindows(8).setHasGarage(true).setHasPool(true).setHasGarden(true).build();
 	}
 }

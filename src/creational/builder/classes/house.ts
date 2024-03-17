@@ -1,6 +1,7 @@
+import { IHouse } from '../interfaces';
 import { HouseBuilder } from './house-builder';
 
-export class House {
+export class House implements IHouse {
 	readonly bedrooms: number;
 	readonly bathrooms: number;
 	readonly windows: number;
