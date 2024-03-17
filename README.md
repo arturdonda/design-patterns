@@ -22,6 +22,8 @@ In the [Gang of Four Book](https://www.amazon.com/gp/product/0201633612/), the a
 - [**Structural patterns**](/src/structural/) explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 - [**Behavioral patterns**](/src/behavioral/) take care of effective communication and the assignment of responsibilities between objects.
 
-## Reference
+## References
 
 - https://refactoring.guru/design-patterns
+- https://www.youtube.com/watch?v=mE3qTp1TEbg&list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&pp=iAQB
+- https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&pp=iAQB
