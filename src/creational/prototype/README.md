@@ -1,4 +1,4 @@
-# Prototype Design Pattern
+# Prototype (Creational)
 
 The Prototype pattern is a creational design pattern that focuses on creating objects based on a template of an existing object through cloning. It allows you to create new objects by copying an existing object, known as the prototype. This pattern is useful when the construction of a new object is more efficient by copying an existing object rather than creating it from scratch or when the class of the object to be copied is not known at compile time.
 
