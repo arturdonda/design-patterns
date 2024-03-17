@@ -24,7 +24,7 @@ While the Singleton pattern provides a global point of access to a single instan
 
 - **Thread safety**: If multiple threads attempt to access the singleton simultaneously, you may need to synchronize the creation of the instance to ensure thread safety.
 
-- **Lazy initialization**: The example provided above demonstrates lazy initialization, where the instance is created only when getInstance() is called for the first time. However, this approach may not be thread-safe in a multithreaded environment.
+- **Lazy initialization**: The example provided demonstrates lazy initialization, where the instance is created only when `getInstance()` is called for the first time. However, this approach may not be thread-safe in a multithreaded environment.
 
 - **Testing**: Singleton classes can be difficult to unit test due to their global state. Mocking the singleton instance or using dependency injection can help with testing.
 
