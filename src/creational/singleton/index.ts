@@ -1,4 +1,4 @@
-import { Database } from './database';
+import { Database } from './classes';
 
 const database1 = Database.getInstance();
 const database2 = Database.getInstance();
