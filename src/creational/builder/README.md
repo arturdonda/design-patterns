@@ -1,12 +1,12 @@
-## Builder (Creational)
+# Builder (Creational)
 
 The Builder pattern is a creational design pattern that allows the construction of complex objects step by step. It separates the construction of a complex object from its representation, allowing the same construction process to create different representations. This pattern is useful when the construction of an object is complex and involves multiple steps or configurations, and when the creation of the object needs to be independent of its internal representation.
 
-### Intent
+## Intent
 
 The intent of the Builder pattern is to separate the construction of a complex object from its representation, allowing the same construction process to create different representations.
 
-### Structure
+## Structure
 
 The Builder pattern typically involves the following components:
 
@@ -18,11 +18,11 @@ The Builder pattern typically involves the following components:
 
 4. **Product**: The Product class represents the complex object being constructed. It may contain various attributes, properties, or methods that define its behavior and functionality.
 
-### Usage
+## Usage
 
 The Builder pattern is commonly used in scenarios where the construction of an object is complex and involves multiple steps or configurations. It provides a flexible and reusable way to construct objects with different configurations while keeping the construction process separate from the object's internal representation.
 
-### Considerations
+## Considerations
 
 - **Complexity vs. Simplicity**: While the Builder pattern can simplify the construction of complex objects, it may introduce additional complexity, especially if the object being constructed has a large number of attributes or configurations.
 
