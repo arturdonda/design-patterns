@@ -1,4 +1,4 @@
-# Chain of Responsibility Design Pattern
+# Chain of Responsibility (Behavioral)
 
 The Chain of Responsibility pattern is a behavioral design pattern that allows multiple objects to handle a request without the client needing to know which object will handle it. It creates a chain of objects, each capable of either handling the request or passing it on to the next handler in the chain. This pattern decouples senders and receivers of a request and allows them to be added or removed dynamically.
 
