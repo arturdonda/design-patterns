@@ -1,6 +1,6 @@
 {
 	"name": "design-patterns",
-	"version": "1.0.13",
+	"version": "1.0.14",
 	"description": "Collection of my studies and implementations of various design patterns",
 	"main": "",
 	"scripts": {
